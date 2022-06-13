@@ -1,0 +1,28 @@
+.searchBox {
+    position: relative;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.menu {
+    background-color: gray;
+    color: #333;
+    padding: 10px;
+    position: absolute;
+    margin: 0 auto;
+    width: 600px;
+}
+
+.menu div {
+    text-align: left;
+    background-color: #eee;
+    padding: 10px 20px;
+    border-bottom: 1px solid #333;
+    font-size: 20pt;
+}
+.menu div span {
+    display: block;
+    font-size: 0.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
